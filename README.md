@@ -1,1 +1,1 @@
-Los archivos cuentan con el modelo inicial de probabilidad de churn hecho por Leandro y Bruno y mi propio código para el Cumulative Probability Distribution Function (CDF) de churn.
+Los archivos cuentan con el modelo inicial de probabilidad de churn hecho por Leandro y Bruno, "aa_EarlyChurnPropertyModel_trainModel V3.ipynb", y mi propio código , "churn data 2.ipynb", para el Cumulative Probability Distribution Function (CDF) de churn.
